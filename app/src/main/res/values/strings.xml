@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">PizzeriaHuichi</string>
+    <string name="hint_text">Hola mundo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="titulo_pizzaAmericana">Americana</string>
+    <string name="parrafo_pizzaAmericana">Doble porción de Queso Mozzarella sobre nuestra salsa de pizza especial, la expresión más pura de una verdadera pizza.</string>
+    <string name="precio_pizzaAmericana">S/.30</string>
+
+    <string name="titulo_pizzaMozarella">Pizza Mozarella</string>
+    <string name="parrafo_pizzaMozarella">Si amas el Queso y el Jamón no puedes dejar de probar esta pizza, una exquisita combinación de nuestro delicioso Queso Mozzarella y el mejor Jamón.</string>
+    <string name="precio_pizzaMozarella">S/.40</string>
+
+    <string name="titulo_pizzaPepperoni">Pizza Pepperoni</string>
+    <string name="parrafo_pizzaPepperoni">Irresistible Pizza de Pepperoni, Queso 100% Mozzarella. La Pizza clásica por excelencia.</string>
+    <string name="precio_pizzaPepperoni">S/.45</string>
+
+    <string name="titulo_pizzaVegetariana">Pizza Vegetariana</string>hawaiana-web_1
+    <string name="parrafo_pizzaVegetariana">Todos tus vegetales favoritos juntos! Una deliciosa pizza cargada con Pimiento Verde y Cebolla Blanca recién cortada, Champiñones frescos, Aceitunas Negras, Tomates y 100% Queso Mozzarella.</string>
+    <string name="precio_pizzaVegetariana">S/.35</string>
+
+    <string name="titulo_pizzaHawaiana">Pizza Hawaiana</string>
+    <string name="parrafo_pizzaHawaiana">Disfruta del sabor de una pizza paradisíaca hecha a mano, con Salsa de Tomate natural, 100% Queso Mozzarella, Jamón y jugosos trozos de Piña. Simplemente espectacular!</string>
+    <string name="precio_pizzaHawaiana">S/.35</string>
+
+    <string name="titulo_pizzaContinentalle">Pizza Continentalle</string>
+    <string name="parrafo_pizzaContinentalle">La combinación perfecta de Jamón, Champiñones y Cebolla sobre nuestro exquisito Queso Mozzarella.</string>
+    <string name="precio_pizzaContinentalle">S/.40</string>
+
+    <string name="titulo_pizzaEspanola">Pizza Española</string>
+    <string name="parrafo_pizzaEspanola">Una espectacular Pizza con Chorizo y los mejores vegetales: Cebolla blanca, Aceitunas Verdes, Aceitunas Negras, Champiñones, Queso Mozzarella y como si fuese poco, Salsa de Ajo en el fondo. ¡Olé!</string>
+    <string name="precio_pizzaEspanola">S/.38</string>
+
+</resources>
