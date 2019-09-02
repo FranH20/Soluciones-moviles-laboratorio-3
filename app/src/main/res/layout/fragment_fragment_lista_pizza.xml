@@ -3,8 +3,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".Fragment_listaPizza">
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150sp"
+        android:src="@drawable/imagen1"
+        ></ImageView>
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler_view"
